@@ -5,7 +5,7 @@ An intelligent Medical AI Assistant that combines Natural Language Processing (N
 
 This project integrates an LLM-powered chatbot with a predictive analytics pipeline, offering an interactive interface for healthcare-related insights and disease risk assessment.
 
-🚀 Key Features
+# -🚀 Key Features
 
 🧠 Medical Chatbot – Built with LLaMA (via CTransformers) and orchestrated using LangChain, enabling natural and context-aware medical conversations.
 
