@@ -21,7 +21,7 @@ This project integrates an LLM-powered chatbot with a predictive analytics pipel
 
 🐍 Tech Stack – Developed in Python, leveraging Pandas for data preprocessing and management.
 
-🧩 Tech Stack Overview
+# -🧩 Tech Stack Overview
 Component	Technology
 LLM	LLaMA (via CTransformers)
 NLP Pipeline	LangChain + Sentence Transformers
@@ -32,7 +32,8 @@ Prediction Model	XGBoost (CVD Prediction)
 Interface	Chainlit
 Backend Language	Python
 Data Handling	Pandas
-🏁 Future Enhancements
+
+#-🏁 Future Enhancements
 
 Integration with real-time patient data (EHR/IoT).
 
